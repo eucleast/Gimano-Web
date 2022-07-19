@@ -1,0 +1,23 @@
+<?php exit('Forbidden'); ?>
+[2022-05-23 04:07:20] [SQLSTATE=22001] Err 1406: Data too long for column 'ip' at row 1
+[2022-05-23 04:07:25] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:07:36] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:07:50] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:08:21] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:08:35] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:09:05] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:09:16] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 04:09:54] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 10:07:43] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 10:08:16] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 10:08:38] [SQLSTATE=22001] Err 1406: Data too long for column 'ip' at row 1
+[2022-05-23 10:08:43] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 10:09:01] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 10:09:32] [SQLSTATE=22001] Err 1406: Data too long for column 'ip' at row 1
+[2022-05-23 10:09:35] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 10:17:37] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 11:04:10] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 11:05:58] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 11:09:19] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 15:43:28] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
+[2022-05-23 18:41:37] [SQLSTATE=42S02] Err 1146: Table 'rathena.guild_emblems' doesn't exist
